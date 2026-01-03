@@ -52,12 +52,3 @@ Breast cancer remains one of the most prevalent health challenges worldwide. Ear
 - Ensemble Learning  
 - Performance Evaluation (Confusion Matrix, ROC, Metrics)
 
----
-
-## **Getting Started**
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/breast-cancer-survival-prediction.git
-cd breast-cancer-survival-prediction
